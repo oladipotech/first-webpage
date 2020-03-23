@@ -1,1 +1,13 @@
-
+var name = "kamil yasir"
+var courses = [
+    html, css, js, flutter
+]
+var i;
+for (
+    let i = 1; i <= 200; i++
+) {
+    if (
+        i % 1 !== 0
+    )
+        console.log(i)
+}
